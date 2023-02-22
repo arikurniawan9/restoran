@@ -61,12 +61,12 @@
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                   <li class="nav-item">
                     <a href="<?= $base_url; ?>transaksi" class="nav-link">
-                    <span data-feather="clipboard" class="align-text-bottom"></span>
+                    <span data-feather="shopping-cart" class="align-text-bottom"></span>
                     Pesanan</a>
                   </li>
                   <li class="nav-item">
                     <a href="<?= $base_url; ?>cart" class="nav-link">
-                    <span data-feather="users" class="align-text-bottom"></span>
+                    <span data-feather="dollar-sign" class="align-text-bottom"></span>
                     Pembayaran</a>
                   </li>
                 </ul>
